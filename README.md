@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Meeness
-- 👀 I’m interested in Product and front-end development of different kind of web products.
-- 🌱 I’m currently learning Multimedia desing and Communication in Denmark 
+- 👀 I’m interested Web development, Creating new products, Improving user experience, Automotive science.
+- 🌱 I’m currently studying Web Development (PBA) in Denmark 
 - 💞️ I’m looking to collaborate on different kind of new products and concepts
-- 📫 How to reach me
+- 📫 How to reach me : 
 
 https://www.facebook.com/henrijs.meness
 
